@@ -1,0 +1,16 @@
+package diziler;
+
+public class dizilerde_method {
+	public static void main(String[] args) {
+		String dizi[]={"Mehmet","Alihan","Salih Can"};
+		for (int i=0,k=0;i<dizi.length;i++,k++){		
+			yazdir(dizi[i],k);
+		}
+	}
+		
+
+	static void yazdir(String dizi, int k) {
+		System.out.printf("%d.kiþi = %s\n",k+1,dizi);
+	}
+
+}
