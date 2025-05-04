@@ -45,8 +45,7 @@ public class Islemler {
 				{
 					System.out.print(dizi[i][j]);
 					System.out.print(" ");
-				
-				
+
 				}
 			System.out.println("");
 			toplam=toplam+Double.parseDouble(dizi[i][3].toString());
@@ -54,8 +53,7 @@ public class Islemler {
 		System.out.println("Emlak Say�s�="+t);
 		System.out.println("Toplam="+toplam);
 		}
-		
-		
+
 	}
 	public static void main(String[] args) {
 		System.out.println("OMU Emlak Ltd. �ti'ye ho�geldiniz");
@@ -78,9 +76,6 @@ public class Islemler {
 			}
 			
 		} while (komut.equals("CIKIS")==false);
-		
-		
+
 	}
- 
 }
- 

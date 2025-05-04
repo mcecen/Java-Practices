@@ -1,5 +1,3 @@
-package overiding;
-
 public class Kitap {
 	public int sayfaSayisi() {
 		System.out.println("Kitap - sayfaSayisi");
