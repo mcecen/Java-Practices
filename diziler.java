@@ -1,5 +1,3 @@
-package diziler;
-
 public class diziler {
 	public static void main(String[] arg){
 		int ikiboy[][]= new int[3][];

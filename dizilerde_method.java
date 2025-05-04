@@ -1,5 +1,3 @@
-package diziler;
-
 public class dizilerde_method {
 	public static void main(String[] args) {
 		String dizi[]={"Mehmet","Alihan","Salih Can"};
@@ -10,7 +8,7 @@ public class dizilerde_method {
 		
 
 	static void yazdir(String dizi, int k) {
-		System.out.printf("%d.kiþi = %s\n",k+1,dizi);
+		System.out.printf("%d.kiï¿½i = %s\n",k+1,dizi);
 	}
 
 }

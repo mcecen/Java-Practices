@@ -1,5 +1,3 @@
-package Interface;
-
 interface A1 {
 	public void hesapla();
 }
@@ -12,22 +10,22 @@ interface A3 {
 	public int hesapla();
 }
 
-class Cakýsmalar implements A1, A2 {
+class CakÄ±smalar implements A1, A2 {
 
 	@Override
 	public void hesapla() {
-		System.out.println("Çakýþmalar.hesapla");
+		System.out.println("ï¿½akï¿½ï¿½malar.hesapla");
 
 	}
 
 	@Override
 	public void hesapla(final int d) {
-		System.out.println("Çakýþmalar.hesapla" + d);
+		System.out.println("ï¿½akï¿½ï¿½malar.hesapla" + d);
 
 	}
 }
 
-/* dönüþ tiplerine göre ayýrt edilmez.
+/* dï¿½nï¿½ï¿½ tiplerine gï¿½re ayï¿½rt edilmez.
 
 	class S2 implements A1,A3{
 

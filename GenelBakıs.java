@@ -1,5 +1,3 @@
-package Interface;
-
 class A extends Soyut1 implements Arayuz1, Arayuz2 {
 
 	@Override
@@ -30,7 +28,7 @@ interface Arayuz2 {
 	public void a2();
 }
 
-public class GenelBakýs {
+public class GenelBakÄ±s {
 
 	public static void main(final String[] args) {
 		final Soyut1 soyut_1 = new A();
