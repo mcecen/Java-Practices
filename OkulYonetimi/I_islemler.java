@@ -16,6 +16,4 @@ public interface I_islemler {
     void silme();
     void anamenu();
     void cikis();
-
-
 }

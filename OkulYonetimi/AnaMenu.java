@@ -42,7 +42,6 @@ public class AnaMenu {
                 System.out.println("Hatalı Giriş Yaptınız. Tekrar Deneyiniz");
                 menu();
 
-
             }
         }
     }

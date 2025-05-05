@@ -25,7 +25,6 @@ public class OgretmenIslemleri implements I_islemler{
             case 'Q':{cikis();break;}
         }
 
-
     }
     @Override
     public void ekleme() {
