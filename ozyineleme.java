@@ -1,5 +1,3 @@
-package methodlar;
-
 public class ozyineleme {
 	static int fac(int sayi) {
 		if(sayi==1)

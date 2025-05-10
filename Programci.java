@@ -1,8 +1,5 @@
-package Polimorfizm;
-
 public class Programci extends Calisan {
-	public Programci() { // yapýlandýrýcý
-		pozisyon = "Programci";
+	public Programci() { // yapï¿½landï¿½rï¿½cï¿½
 	}
 
 	@Override

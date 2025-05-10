@@ -1,6 +1,3 @@
-package notPolimorfizm;
-
-//http://www.turhaltemizer.com/2008/02/java-polimorfizm.html
 public class polimorfizm {
 
 	public static void hazirlanSinavVar(final Object[] o) {

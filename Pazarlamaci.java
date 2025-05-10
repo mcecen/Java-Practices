@@ -1,7 +1,5 @@
-package Polimorfizm;
-
 public class Pazarlamaci extends Calisan {
-	public Pazarlamaci() { // yapýlandýrýcý
+	public Pazarlamaci() { // yapï¿½landï¿½rï¿½cï¿½
 		pozisyon = "Pazarlamaci";
 	}
 

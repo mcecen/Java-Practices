@@ -1,5 +1,3 @@
-package collections;
-
 public class Emlak {
 	
 	private String tur;

@@ -1,8 +1,6 @@
-package Polimorfizm;
-
 public class Mudur extends Calisan {
 
-	public Mudur() { // yapýlandýrýcý
+	public Mudur() { // yapï¿½landï¿½rï¿½cï¿½
 		pozisyon = "Mudur";
 	}
 
